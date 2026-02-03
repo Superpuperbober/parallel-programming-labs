@@ -1,0 +1,20 @@
+# Build folders
+build/
+Debug/
+Release/
+x64/
+out/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+*.user
+*.filters
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+
+# OS
+.DS_Store
